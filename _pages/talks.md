@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: talks at conferences, with slides! yahoooooooo
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 prova prova 123 aaaaaa
