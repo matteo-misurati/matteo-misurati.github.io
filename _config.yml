@@ -202,6 +202,9 @@ exclude:
   - vendor
   - _posts 
   - _pages/blog.md
+  - _news
+  - _includes/news.liquid
+  
   
 keep_files:
   - CNAME
