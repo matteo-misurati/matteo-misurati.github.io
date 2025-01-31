@@ -44,11 +44,11 @@ University of Ferrara, Department of Mathematics and Computer Science, June 14, 
 **Polinomi, campi e duelli: le equazioni polinomiali tra storia
 e matematica** \
 talk on the history of polinomial equations and groups for high-school students,\ 
-in collaboration with Arrigo Pisati, Polo Tecnico di Adria, February 29, 2024 \
+in collaboration with Arrigo Pisati, Polo Tecnico di Adria, February 29, 2024 \ 
 [Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides_galois.pdf?raw=true)
 
 **Spunti di matematica pura per l’orientamento
 nelle scuole superiori** \
-talk showcasing a few elementary topics in bachelor-level pure matematics that could fascinate high-school students,\
-University of Ferrara, Department of Mathematics and Computer Science, November 20, 2020 \
+talk showcasing a few elementary topics in bachelor-level pure matematics that could fascinate high-school students,\ 
+University of Ferrara, Department of Mathematics and Computer Science, November 20, 2020 \ 
 [Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides_fermat.pdf?raw=true), [Additional material](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/doc_fermat.pdf?raw=true)
