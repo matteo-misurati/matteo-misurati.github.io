@@ -7,11 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<h2>Talks and seminars</h2>
-
-test test prova
-
-
 <h2>Tutoring</h2>
 
 Support activities to the teaching of the following courses
@@ -37,3 +32,23 @@ University of Ferrara, Department of Mathematics and Computer Science, semester 
 [Course info](https://unife.coursecatalogue.cineca.it/insegnamenti/2022/477/2021/3/10379?coorte=2021&schemaid=11383)
 
 
+<h2>Talks and seminars</h2>
+
+A list of talks and seminars for students or related to teaching.
+
+**Cifrare messaggi dividendo con il resto: congruenze modulari e RSA** \
+talk on the history of cryptography and the mathematics behind RSA for high-school students,
+University of Ferrara, Department of Mathematics and Computer Science, June 14, 2024 \
+[Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides_RSA.pdf?raw=true)
+
+**Polinomi, campi e duelli: le equazioni polinomiali tra storia
+e matematica** \
+talk on the history of polinomial equations and groups for high-school students, 
+in collaboration with Arrigo Pisati, Polo Tecnico di Adria, February 29, 2024 \
+[Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides_galois.pdf?raw=true)
+
+**Spunti di matematica pura per l’orientamento
+nelle scuole superiori** \
+talk showcasing a few elementary topics in bachelor-level pure matematics that could fascinate high-school students,
+University of Ferrara, Department of Mathematics and Computer Science, November 20, 2020 \
+[Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides_fermat.pdf?raw=true) [Additional material](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/doc_fermat.pdf?raw=true)
