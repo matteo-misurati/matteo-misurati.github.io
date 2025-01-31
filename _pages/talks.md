@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Talks and presentations I gave at conferences, with downloadable slides.
+description: Conference talks and presentations, with downloadable slides.
 nav: true
 nav_order: 2
 ---
@@ -18,8 +18,5 @@ Groups and Algebras in Bicocca for Young algebraists, Milan, June 17-21, 2024 \
 **Free biproduct quasi-Hopf algebras of rank 2** \
 Hopf Days in Brussels, Brussels, September 4-6, 2023 \
 [Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides__hopf_days_in_brussels23.pdf?raw=true)
-
-[**Free biproduct quasi-Hopf algebras of rank 2**](http://reddit.com) \
-testtest prova, September 12, 2021 
 
 
