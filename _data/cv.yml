@@ -2,96 +2,128 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Matteo Misurati
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th February 1998
     - name: Languages
-      value: English, German
+      value: English, Italian
 
-- title: Education
+- title: Education and training
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD candidate
+      institution: University of Ferrara, Ferrara, Italy
+      year: 2022 - Today
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+          - tutor: Prof. Claudia Menini, Prof. Daniel Bulacu
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Research stay 
+      institution: University of Bucharest, Bucharest, Romania
+      year: March 2024 - April 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Visiting Prof. Daniel Bulacu
+        
+    - title: Master’s Degree in Mathematics 
+      institution: University of Ferrara, Ferrara, Italy
+      year: 2022
+      description:
+        - 110L/110
+    - title: Bachelor’s Degree in Mathematics 
+      institution: University of Ferrara, Ferrara, Italy
+      year: 2020
+      description:
+        - 110L/110
+    
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: Quasi-Hopf algebras of dimension 6
       year: 1933 - 1955
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - Joint work with Daniel Bulacu
+        - Preprint at arXiv:2410.03476 [math.QA]
+        
+- title: Conference talks
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Quasi-Hopf algebras of dimension 6
+      conference: ItaCa 2024, Padova
+      year: December 19-20, 2024
 
-- title: Honors and Awards
+    - title: Free biproduct quasi-Hopf algebras of rank 2
+      conference: Groups and Algebras in Bicocca for Young algebraists, Milan
+      year: June 17-21, 2024 
+      
+    - title: Free biproduct quasi-Hopf algebras of rank 2
+      conference: Hopf Days in Brussels, Brussels
+      year: September 4-6, 2023 
+
+   
+- title: Teaching experiences
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Tutor for Algebra I
+    institution: University of Ferrara, Department of Mathematics and Computer Science
+    year: 2024 - 2025
+
+    - title: Tutor for Algebra
+    institution: University of Ferrara, Department of Mathematics and Computer Science
+    year: 2023 - 2024
+
+    - title: Tutor for Geometria II
+    institution: University of Ferrara, Department of Mathematics and Computer Science
+    year: 2022 - 2023
+
+    - title: Tutor for Algebra
+    institution: University of Ferrara, Department of Mathematics and Computer Science
+    year: 2022 - 2023
+
+    - title: Tutor for Geometria II
+    institution: University of Ferrara, Department of Mathematics and Computer Science
+    year: 2021 - 2022
+
+    - title: Cifrare messaggi dividendo con il resto: congruenze modulari e RSA
+    institution: University of Ferrara, Department of Mathematics and Computer Science
+    description: Talk on the history of cryptography and the mathematics behind RSA for high-school students
+    year: June 14, 2024 
+
+    - title: Polinomi, campi e duelli: le equazioni polinomiali tra storia e matematica
+    institution: Polo Tecnico di Adria
+    description: talk on the history of polinomial equations and groups for high-school students, in collaboration with Arrigo Pisati
+    year: February 29, 2024 
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Non-commutative algebra
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Braided monoidal categories
+        - Quasi-Hopf algebras
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
