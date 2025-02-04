@@ -212,6 +212,7 @@ exclude:
   - _includes/repository/ 
   - _pages/profiles.md
   - _pages/dropdown.md
+  - _includes/cv
   
 keep_files:
   - CNAME
