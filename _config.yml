@@ -212,9 +212,6 @@ exclude:
   - _includes/repository/ 
   - _pages/profiles.md
   - _pages/dropdown.md
-  - _includes/cv
-  - _data/cv.yml
-  - _sass/_cv.scss
   
 keep_files:
   - CNAME
