@@ -64,28 +64,28 @@
   type: time_table
   contents:
     - title: Tutor for Algebra I
-    institution: University of Ferrara, Department of Mathematics and Computer Science
-    year: 2024 - 2025
+      institution: University of Ferrara, Department of Mathematics and Computer Science
+      year: 2024 - 2025
     - title: Tutor for Algebra
-    institution: University of Ferrara, Department of Mathematics and Computer Science
-    year: 2023 - 2024
+      institution: University of Ferrara, Department of Mathematics and Computer Science
+      year: 2023 - 2024
     - title: Tutor for Geometria II
-    institution: University of Ferrara, Department of Mathematics and Computer Science
-    year: 2022 - 2023
+      institution: University of Ferrara, Department of Mathematics and Computer Science
+      year: 2022 - 2023
     - title: Tutor for Algebra
-    institution: University of Ferrara, Department of Mathematics and Computer Science
-    year: 2022 - 2023
+      institution: University of Ferrara, Department of Mathematics and Computer Science
+      year: 2022 - 2023
     - title: Tutor for Geometria II
-    institution: University of Ferrara, Department of Mathematics and Computer Science
-    year: 2021 - 2022
+      institution: University of Ferrara, Department of Mathematics and Computer Science
+      year: 2021 - 2022
     - title: Cifrare messaggi dividendo con il resto: congruenze modulari e RSA
-    institution: University of Ferrara, Department of Mathematics and Computer Science
-    description: Talk on the history of cryptography and the mathematics behind RSA for high-school students
-    year: June 14, 2024 
+      institution: University of Ferrara, Department of Mathematics and Computer Science
+      description: Talk on the history of cryptography and the mathematics behind RSA for high-school students
+      year: June 14, 2024 
     - title: Polinomi, campi e duelli: le equazioni polinomiali tra storia e matematica
-    institution: Polo Tecnico di Adria
-    description: talk on the history of polinomial equations and groups for high-school students, in collaboration with Arrigo Pisati
-    year: February 29, 2024 
+      institution: Polo Tecnico di Adria
+      description: talk on the history of polinomial equations and groups for high-school students, in collaboration with Arrigo Pisati
+      year: February 29, 2024 
 
 # - title: Open Source Projects
 #   type: time_table
