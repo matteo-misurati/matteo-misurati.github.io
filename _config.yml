@@ -212,6 +212,7 @@ exclude:
   - _includes/repository/ 
   - _pages/profiles.md
   - _pages/dropdown.md
+  - assets/json/resume.json
   
 keep_files:
   - CNAME
