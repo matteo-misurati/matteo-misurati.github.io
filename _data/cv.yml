@@ -14,7 +14,9 @@
     - title: PhD candidate
       institution: University of Ferrara, Ferrara, Italy
       year: 2022 - Today
-      tutor: Prof. Claudia Menini, Prof. Daniel Bulacu
+      # tutor: Prof. Claudia Menini, Prof. Daniel Bulacu
+      description:
+        - tutor format('autorelease{0} pending', ':') Prof. Claudia Menini and Prof. Daniel Bulacu
         # - Description 1.
         # - Description 2.
         # - title: Description 3.
@@ -23,9 +25,9 @@
         #     - Sub-description 2.
     - title: Research stay 
       institution: University of Bucharest, Bucharest, Romania
-      year: March 2024 - April 2024
-      description:
-        - Visiting Prof. Daniel Bulacu
+      year: 3-4/2024
+      # description:
+      #   - Visiting Prof. Daniel Bulacu
     - title: Master’s Degree in Mathematics 
       institution: University of Ferrara, Ferrara, Italy
       year: 2022
@@ -41,7 +43,7 @@
   type: time_table
   contents:
     - title: Quasi-Hopf algebras of dimension 6
-      year: 1933 - 1955
+      year: 4/10/2024
       description:
         - Joint work with Daniel Bulacu
         - Preprint at arXiv:2410.03476 [math.QA]
@@ -51,13 +53,13 @@
   contents:
     - title: Quasi-Hopf algebras of dimension 6
       conference: ItaCa 2024, Padova
-      year: December 19-20, 2024
+      year: 19-20/12/2024
     - title: Free biproduct quasi-Hopf algebras of rank 2
       conference: Groups and Algebras in Bicocca for Young algebraists, Milan
-      year: June 17-21, 2024 
+      year: 17-21/6/2024 
     - title: Free biproduct quasi-Hopf algebras of rank 2
       conference: Hopf Days in Brussels, Brussels
-      year: September 4-6, 2023 
+      year: 4-6/9/2023 
 
    
 - title: Teaching experiences
@@ -81,11 +83,11 @@
     - title: Cifrare messaggi dividendo con il resto, congruenze modulari e RSA
       institution: University of Ferrara, Department of Mathematics and Computer Science
       description: Talk on the history of cryptography and the mathematics behind RSA for high-school students
-      year: June 14, 2024 
+      year: 14/6/2024 
     - title: Polinomi, campi e duelli, le equazioni polinomiali tra storia e matematica
       institution: Polo Tecnico di Adria
       description: talk on the history of polinomial equations and groups for high-school students, in collaboration with Arrigo Pisati
-      year: February 29, 2024  
+      year: 29/2/2024  
 
 - title: Academic Interests
   type: nested_list
