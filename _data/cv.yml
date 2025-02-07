@@ -16,7 +16,7 @@
       year: 2022 - Today
       # tutor: Prof. Claudia Menini, Prof. Daniel Bulacu
       description:
-        - tutor format('autorelease{0} pending', ':') Prof. Claudia Menini and Prof. Daniel Bulacu
+        - "tutor: Prof. Claudia Menini, Prof. Daniel Bulacu"
         # - Description 1.
         # - Description 2.
         # - title: Description 3.
@@ -52,12 +52,18 @@
   type: time_table
   contents:
     - title: Quasi-Hopf algebras of dimension 6
+      description:
+        - ItaCa 2024, Padova
       conference: ItaCa 2024, Padova
       year: 19-20/12/2024
     - title: Free biproduct quasi-Hopf algebras of rank 2
+      description:
+        - Groups and Algebras in Bicocca for Young algebraists, Milan
       conference: Groups and Algebras in Bicocca for Young algebraists, Milan
       year: 17-21/6/2024 
     - title: Free biproduct quasi-Hopf algebras of rank 2
+       description:
+        - Hopf Days in Brussels, Brussels
       conference: Hopf Days in Brussels, Brussels
       year: 4-6/9/2023 
 
@@ -95,6 +101,7 @@
     - title: Non-commutative algebra
       items:
         - Braided monoidal categories
+        - Yetter-Drinfeld module categories
         - Quasi-Hopf algebras
 # - title: Other Interests
 #   type: list
