@@ -6,7 +6,7 @@ subtitle: PhD candidate at <a href='#'>University of Ferrara</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: foto_amogus.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Via Nicolò Machiavelli, 30</p>
