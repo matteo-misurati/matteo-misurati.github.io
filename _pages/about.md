@@ -17,6 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Greetings! I am an italian mathematician based in Ferrara working in non-commutative algebra, mostly on braided monoidal categories and quasi-Hopf algebras. My goal is to discover beautiful mathematical structures and encourage public interest in pure mathematics.
+Greetings! I am an italian mathematician based in Ferrara working in non-commutative algebra, mostly on braided monoidal categories and quasi-Hopf algebras. My goal is to discover beautiful mathematical structures and encourage public interest in pure mathematics. 
+
+This website contains the list of my [publications](https://matteo-misurati.github.io/publications/), the [slides of the talks](https://matteo-misurati.github.io/talks/) I have given at various conferences and a summary of my [teaching experiences](https://matteo-misurati.github.io/teaching/). You can also find my curriculum vitae [here](https://matteo-misurati.github.io/cv/).
 
 For any question, don't hesitate to send me an email at: `matteo.misurati[at]unife.it`
