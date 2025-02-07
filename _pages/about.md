@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unife.it/en?set_language=en'>University of Ferrara</a>.
+subtitle: PhD candidate at <a href='https://www.unife.it/en?set_language=en'>University of Ferrara</a>.
 
 profile:
   align: right
@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Greetings! I am a PhD student based in Ferrara, Italy, working in non-commutative algebra, mostly on braided monoidal categories and quasi-Hopf algebras.
+Greetings! I am a mathematician based in Ferrara, Italy, working in non-commutative algebra, mostly on braided monoidal categories and quasi-Hopf algebras. I aim to discover beautiful structures and foster public interest in pure mathematics.
 
 For any question, don't hesitate to send me an email at: `matteo.misurati[at]unife.it`
