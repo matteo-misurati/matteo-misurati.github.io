@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Via Nicoloò Machiavelli, 30</p>
+    <p>Via Nicolò Machiavelli, 30</p>
     <p>Ferrara, Italy, 44121</p>
 
 news: false # includes a list of news items
