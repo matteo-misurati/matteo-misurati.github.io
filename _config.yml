@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal website of Matteo Misurati.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: misurati, matteo-misurati, quasi-Hopf algebras, algebra, monoidal categories, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: matteo misurati, misurati, quasi-Hopf algebras, algebra, monoidal categories # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌧 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -78,7 +78,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: _w9sGx9soaBzDOqwuHHQtF6luV0oxaFUMxhNexaOARQ # your google-site-verification ID (Google Search Console)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
