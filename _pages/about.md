@@ -22,8 +22,3 @@ Greetings! I am an italian mathematician based in Ferrara working in non-commuta
 This website contains the list of my [publications](https://matteo-misurati.github.io/publications/), the [slides of the talks](https://matteo-misurati.github.io/talks/) I have given at various conferences and a summary of my [teaching experiences](https://matteo-misurati.github.io/teaching/). You can also find my curriculum vitae [here](https://matteo-misurati.github.io/cv/).
 
 For any question, don't hesitate to send me an email at: `matteo.misurati[at]unife.it`
-
-<div align="center">
-  <img src="google116a61e2c86c6aa3.html" height="100" />
-
-</div>
