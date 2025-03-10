@@ -1,7 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+<head>
+  <meta name="google-site-verification" content="_w9sGx9soaBzDOqwuHHQtF6luV0oxaFUMxhNexaOARQ" />
+</head>
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Matteo
 middle_name: 
