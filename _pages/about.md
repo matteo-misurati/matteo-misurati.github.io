@@ -24,6 +24,6 @@ This website contains the list of my [publications](https://matteo-misurati.gith
 For any question, don't hesitate to send me an email at: `matteo.misurati[at]unife.it`
 
 <div align="center">
-  <img src="assets/html/google116a61e2c86c6aa3.html" height="100" />
+  <img src="google116a61e2c86c6aa3.html" height="100" />
 
 </div>
