@@ -2,10 +2,12 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Conference talks and presentations, with downloadable slides.
+description: Talks and presentations, with downloadable slides.
 nav: true
 nav_order: 2
 ---
+
+<h2>Conference talks</h2>
 
 **Quasi-Hopf algebras of dimension 6** \
 ItaCa 2024, Padova, December 19-20th, 2024 \
@@ -20,3 +22,9 @@ Hopf Days in Brussels, Brussels, September 4-6, 2023 \
 [Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides__hopf_days_in_brussels23.pdf?raw=true)
 
 
+
+<h2>Seminars</h2>
+
+**An introduction to Nichols algebras and bosonization** \
+NCG&T Prague, Pre-Seminar, April 1st, 2025
+[Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides__nichols25.pdf?raw=true), [Recording(placeholder)](https://youtu.be/dQw4w9WgXcQ?si=Fh2lkiz-CaMRd95x)
