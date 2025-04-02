@@ -27,4 +27,4 @@ Hopf Days in Brussels, Brussels, September 4-6, 2023 \
 
 **An introduction to Nichols algebras and bosonization** \
 NCG&T Prague, Pre-Seminar, April 1st, 2025 \
-[Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides__nichols25.pdf?raw=true), [Recording(placeholder)]([https://youtu.be/dQw4w9WgXcQ?si=Fh2lkiz-CaMRd95x](https://youtu.be/GAmlEjQeE0M?si=d4naxEFclVag3vn3))
+[Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides__nichols25.pdf?raw=true), [Recording(placeholder)](https://youtu.be/GAmlEjQeE0M?si=36fcfmuIKKEMGePn)
