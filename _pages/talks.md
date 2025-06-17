@@ -9,6 +9,11 @@ nav_order: 2
 
 <h2>Conference talks</h2>
 
+
+**Quasi-Hopf algebras of dimension 6** \
+Workshop in Algebra and Category Theory, Turin, June 18th, 2025 \
+[Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides_turin25.pdf?raw=true)
+
 **Quasi-Hopf algebras of dimension 6** \
 ItaCa 2024, Padova, December 19-20th, 2024 \
 [Download slides](https://github.com/matteo-misurati/matteo-misurati.github.io/blob/main/assets/pdf/slides_itaca24.pdf?raw=true)
