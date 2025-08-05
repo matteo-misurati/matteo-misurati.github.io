@@ -11,6 +11,10 @@ nav_order: 3
 
 Support activities to the teaching of the following courses
 
+**Tutor for Algebra II** \
+University of Ferrara, Department of Mathematics and Computer Science, semester 2, 2024/2025 \
+[Course info](https://unife.coursecatalogue.cineca.it/insegnamenti/2024/15565/2021/3/10379?coorte=2024&schemaid=12484) 
+
 **Tutor for Algebra I** \
 University of Ferrara, Department of Mathematics and Computer Science, semester 1, 2024/2025 \
 [Course info](https://unife.coursecatalogue.cineca.it/insegnamenti/2024/14482/2021/3/10379?coorte=2024&schemaid=11851)
