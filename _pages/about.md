@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate at <a href='https://www.unife.it/en?set_language=en'>University of Ferrara</a>.
+subtitle: PhD in Mathematics
 
 profile:
   align: right
